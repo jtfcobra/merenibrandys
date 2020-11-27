@@ -1,1 +1,1 @@
-# merenibrandys
+# Zalozeni GIT
